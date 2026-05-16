@@ -1,6 +1,9 @@
 name: Preview Build
 
 on:
+  push:
+    branches:
+      - build/zh-cn-preview
   workflow_dispatch:
 
 jobs:
