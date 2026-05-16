@@ -5,6 +5,7 @@ export const fr: Translations = {
         en: 'Anglais',
         fr: 'Français',
         'pt-BR': 'Portugais (Brésil)',
+        'zh-CN': 'Chinois simplifié',
         'zh-TW': 'Chinois traditionnel'
     },
     common: {
