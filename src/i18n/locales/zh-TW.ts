@@ -5,6 +5,7 @@ export const zhTW: Translations = {
         en: 'English',
         fr: 'Français',
         'pt-BR': 'Português (Brasil)',
+        'zh-CN': '簡體中文',
         'zh-TW': '繁體中文'
     },
     common: {

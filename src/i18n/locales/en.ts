@@ -6,6 +6,7 @@ export const en = {
         en: 'English',
         fr: 'Français',
         'pt-BR': 'Português (Brasil)',
+        'zh-CN': 'Simplified Chinese',
         'zh-TW': 'Traditional Chinese'
     },
     common: {
